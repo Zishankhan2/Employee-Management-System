@@ -10,12 +10,7 @@ A modern, responsive front-end application built with **React** and initialized 
         <img width="1366" height="637" alt="Login page" src="https://github.com/user-attachments/assets/e6b68715-5cec-437b-bdb2-948d48823a67" />
         
 
-                                                                         ADMIN DASHBOARD:--
-        <img width="1366" height="639" alt="Admin page" src="https://github.com/user-attachments/assets/8ade7138-5a95-4be6-ada1-a31409fd4a81" />
-        
 
-                                                                         EMPLOYEE DASHBOARD:--                                                                
-       <img width="653" height="619" alt="Employee Dashboard" src="https://github.com/user-attachments/assets/fcd903af-c957-42d0-9fba-0b7fae66b859" />
                                                         
 
 

@@ -5,9 +5,10 @@ This README file is generated based on the configuration files you provided, whi
 # 🚀 Employee Management System Project
 
 A modern, responsive front-end application built with **React** and initialized using **Vite**. Styling is handled by **Tailwind CSS** for rapid development and clean utility-first design.
+<img width="1366" height="637" alt="Login page" src="https://github.com/user-attachments/assets/4fd926fc-a3e2-42b9-9d9a-c55e0f68cd90" />
 
-                                                                          LOGIN PAGE:--
-        <img width="1366" height="637" alt="Login page" src="https://github.com/user-attachments/assets/e6b68715-5cec-437b-bdb2-948d48823a67" />
+
+  
         
 
 
